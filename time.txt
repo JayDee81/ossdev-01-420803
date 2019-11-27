@@ -1,0 +1,4 @@
+a) coding    40 min
+b) implementing tests    40 min
+c) writing docs    10 min
+d) setting up project / build system / style check.
